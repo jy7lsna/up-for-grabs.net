@@ -1,0 +1,15 @@
+name: Caura Long-Run Fleet
+desc: A reference implementation for long-running AI agent fleets with shared memory, governed coordination, automatic contradiction resolution, and persistent context.
+site: https://github.com/caura-ai/caura-long-run-fleet
+tags:
+  - ai-agents
+  - agent-memory
+  - multi-agent
+  - openclaw
+  - llm
+  - memory-governance
+  - python
+  - open-source
+upforgrabs:
+  name: good first issue
+  link: https://github.com/caura-ai/caura-long-run-fleet/labels/good%20first%20issue 
